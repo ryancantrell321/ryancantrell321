@@ -1,4 +1,4 @@
-# 💁 About Me:
+### 💁 About Me:
 ----------------------
 #### 🏫 Currently pursuing a BSc. in Computer Science and Engineering at Leading University, Sylhet
 #### 💓 Astronomy, Police Procedurals, Detective Novels
@@ -12,8 +12,9 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Farhan%20Nadim%20Iqbal-00CCBB?logo=researchgate&logoColor=white&style=for-the-badge)](https://www.researchgate.net/profile/Farhan-Nadim-Iqbal)
 [![Zenodo](https://img.shields.io/badge/Zenodo-Farhan%20Nadim%20Iqbal-0033A0?logo=zenodo&logoColor=white&style=for-the-badge)](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Iqbal%2C%20Farhan%20Nadim%22&l=list&p=1&s=10&sort=bestmatch)
 
-----------------------
-# 💻 Tech Stacks
+
+
+### 💻 Tech Stacks
 ----------------------
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -27,8 +28,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryancantrell321)
 
-----------------------
-# 📖 Interests
+### 📖 Interests
 ----------------------
 [![Kivy](https://img.shields.io/badge/Kivy-3498DB?style=for-the-badge&logo=kivy&logoColor=white)](https://kivy.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -46,8 +46,7 @@
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
 
 
-----------------------
-# 📞 Get in Touch:
+### 📞 Get in Touch:
 ----------------------
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadeemomi321@hotmail.com)
 [![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ryancantrell321.bsky.social)
